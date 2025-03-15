@@ -6,4 +6,4 @@ this course will have several units and a certificate after completion
 
 course ends on May, 11
 
-unit #2 ready
+unit #1, #2 ready
