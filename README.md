@@ -2,6 +2,8 @@
 
 From beginner to expert, in understanding, using and building AI agents
 
-unit 1, unit 2, unit 3, unit 4.
+## Resources
+
+[Gradio: Introducing FastRTC, a new way to build real-time AI apps](https://www.gradio.app/)
 
 
