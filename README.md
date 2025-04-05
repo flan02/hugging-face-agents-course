@@ -8,4 +8,6 @@ From beginner to expert, in understanding, using and building AI agents
 
 [Gradio: Introducing FastRTC, a new way to build real-time AI apps](https://www.gradio.app/)
 
+## Hugging Face Spaces | Agents gallery
 
+[tools-gallery](https://huggingface.co/spaces/davidberenstein1957/smolagents-and-tools)
