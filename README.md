@@ -11,3 +11,18 @@ From beginner to expert, in understanding, using and building AI agents
 ## Hugging Face Spaces | Agents gallery
 
 [tools-gallery](https://huggingface.co/spaces/davidberenstein1957/smolagents-and-tools)
+
+## smolagents also allows importing tools from the hundreds of MCP servers available on:
+
+### Glama 
+
+Open-Source MCP servers
+Production-ready and experimental MCP servers that extend AI capabilities through file access, database connections, API integrations, and other contextual services
+
+![glama website](https://glama.ai/mcp/servers)
+
+### Smithery
+
+Extend your agent with 3,940 capabilities via Model Context Protocol servers.
+
+![smithery website](https://smithery.ai/)
