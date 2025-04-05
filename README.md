@@ -19,10 +19,10 @@ From beginner to expert, in understanding, using and building AI agents
 Open-Source MCP servers
 Production-ready and experimental MCP servers that extend AI capabilities through file access, database connections, API integrations, and other contextual services
 
-![glama website](https://glama.ai/mcp/servers)
+[glama website](https://glama.ai/mcp/servers)
 
 ### Smithery
 
 Extend your agent with 3,940 capabilities via Model Context Protocol servers.
 
-![smithery website](https://smithery.ai/)
+[smithery website](https://smithery.ai/)
