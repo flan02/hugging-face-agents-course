@@ -26,3 +26,7 @@ Production-ready and experimental MCP servers that extend AI capabilities throug
 Extend your agent with 3,940 capabilities via Model Context Protocol servers.
 
 [smithery website](https://smithery.ai/)
+
+### Superpower for your AI Agents
+
+[framework LlamaIndex](https://llamahub.ai/)
