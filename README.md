@@ -32,3 +32,7 @@ Extend your agent with 3,940 capabilities via Model Context Protocol servers.
 [framework LlamaIndex](https://llamahub.ai/)
 
 [Llamaindex docs](https://docs.llamaindex.ai/en/stable/)
+
+### AI Observability and Evaluation
+
+[Arize Phoenix docs](https://docs.arize.com/phoenix)
