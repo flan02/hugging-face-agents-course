@@ -30,3 +30,5 @@ Extend your agent with 3,940 capabilities via Model Context Protocol servers.
 ### Superpower for your AI Agents
 
 [framework LlamaIndex](https://llamahub.ai/)
+
+[Llamaindex docs](https://docs.llamaindex.ai/en/stable/)
