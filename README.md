@@ -36,3 +36,7 @@ Extend your agent with 3,940 capabilities via Model Context Protocol servers.
 ### AI Observability and Evaluation
 
 [Arize Phoenix docs](https://docs.arize.com/phoenix)
+
+### Langgraph agent examples
+
+[ex](https://langchain-ai.github.io/langgraph/)
