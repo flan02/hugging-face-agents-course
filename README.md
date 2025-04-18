@@ -40,3 +40,7 @@ Extend your agent with 3,940 capabilities via Model Context Protocol servers.
 ### Langgraph agent examples
 
 [get started](https://langchain-ai.github.io/langgraph/)
+
+### Trace your Agents
+
+[langfuse docs](https://langfuse.com/)
