@@ -12,9 +12,9 @@ From beginner to expert, in understanding, using and building AI agents
 
 [tools-gallery](https://huggingface.co/spaces/davidberenstein1957/smolagents-and-tools)
 
-## smolagents also allows importing tools from the hundreds of MCP servers available on:
+## Smolagents also allows importing tools from the hundreds of MCP servers available on
 
-### Glama 
+### Glama
 
 Open-Source MCP servers
 Production-ready and experimental MCP servers that extend AI capabilities through file access, database connections, API integrations, and other contextual services
@@ -36,3 +36,9 @@ Extend your agent with 3,940 capabilities via Model Context Protocol servers.
 ### AI Observability and Evaluation
 
 [Arize Phoenix docs](https://docs.arize.com/phoenix)
+
+### E2B Run AI-GENERATED CODE securely in your app
+
+[E2B website](https://e2b.dev/)
+
+[E2B docs](https://docs.e2b.dev/)
