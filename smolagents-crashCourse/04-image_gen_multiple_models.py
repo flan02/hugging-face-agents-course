@@ -33,7 +33,7 @@ class TextToImageTool(Tool):
           "description": "The Hugging Face model ID to use for image generation. If not provided, will use the default model."
        }
     }
-    output_type = "image"
+    output_type = "image" # there are other types: text, image, audio, video, etc.
     current_model = "black-forest-labs/FLUX.1-schnell"
     
     def forward(self, prompt, model):

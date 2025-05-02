@@ -9,7 +9,7 @@ class DummyLogger:
 
 agent = CodeAgent(
   tools=[VisitWebpageTool()],
-  model=HfApiModel(), # by default: Qwen/Qwen2.5-Coder-32B-Instruct 
+  model=HfApiModel(model_id="Qwen/Qwen2.5-Coder-32B-Instruct"), # by default without params: Qwen/Qwen2.5-Coder-32B-Instruct 
   executor=E2BExecutor(logger=DummyLogger(), additional_imports=["requests", "markdownify"]),
   additional_authorized_imports=["requests", "markdownify"]
 )
