@@ -66,7 +66,7 @@ def generate_image(prompt):
     generated_image = PIL.Image.open("image.png")
     return generated_image, result
 
-# Create Gradio interface
+# $ Create Gradio interface
 demo = gr.Interface(
     fn=generate_image,
     inputs=[

@@ -110,3 +110,8 @@ You can view and modify all keyboard shortcuts by:
 ---
 
 Feel free to integrate this Markdown file into your documentation or personal notes. Let me know if you need further assistance or additional information
+
+## Forcing Gitbash UTF-8 Encoding
+
+export PYTHONUTF8=1
+python smolagents-crashCourse/06-anyLLM.py
