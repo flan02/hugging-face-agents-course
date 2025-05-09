@@ -9,8 +9,12 @@ def get_questions() -> list[Question]:
     Fetches questions from the API.
     """
     response = requests.get(QUESTIONS_URL)
-    return [Question(**question) for question in response.json()]
+    questions = [Question(**question) for question in response.json()]
+    
+    for question in questions: # Print each question's information
+        question.print_info()
 
+    return questions
 
 def get_file_by_task_id(task_id: str) -> bytes:
     """
@@ -34,3 +38,14 @@ def view_image(image_bytes: bytes):
     from IPython.display import Image
 
     return Image(image_bytes)
+
+def print_answers(questions: list, answers: list):
+    """ 
+    Print the answers in a readable format.
+    """
+    print("\n🎗 Results:")
+    for i, (question, answer) in enumerate(zip(questions, answers), 1):
+        print(f"\n--- Question {i} (Level {question.Level}) ---")
+        print(f"Task ID: {question.task_id}")
+        print(f"Question: {question.question}")
+        print(f"Answer: {answer}")

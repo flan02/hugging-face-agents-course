@@ -10,7 +10,10 @@ class Question(BaseModel):
     def get_file(self):
         if self.file_name:
             from src.final_assignment_template.utils import get_file_by_task_id
-
             return get_file_by_task_id(self.task_id)
         else:
             return None
+        
+
+    def print_info(self):
+        print(self.model_dump())
