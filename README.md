@@ -37,7 +37,7 @@ Extend your agent with 3,940 capabilities via Model Context Protocol servers.
 
 [Arize Phoenix docs](https://docs.arize.com/phoenix)
 
-### E2B Run AI-GENERATED CODE securely in your app
+### E2B Run AI-GENERATED CODE securely in your application
 
 [E2B website](https://e2b.dev/)
 
